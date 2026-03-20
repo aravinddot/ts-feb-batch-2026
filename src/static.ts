@@ -13,6 +13,8 @@ class StatiClass {
     }
 }
 
+StatiClass.funcOne()
+
 
 
 

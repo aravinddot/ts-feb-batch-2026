@@ -13,7 +13,7 @@ abstract class NewClass {
 
 }
 
-// const validate = new NewClass()
+//const validate = new NewClass()
 
 class ClassTwo extends NewClass {
 
